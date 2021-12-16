@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.235.151.237
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1638204388277
+  login: 1638204301909
+money: '0'
+last-account-name: LittleMonkey500
+logoutlocation:
+  world: c5c795b7-c0e2-4e61-b044-08d297298b4a
+  world-name: world
+  x: 312.5
+  y: 76.0
+  z: -107.5
+  yaw: -10.199999809265137
+  pitch: 10.950003623962402
+lastlocation:
+  world: c5c795b7-c0e2-4e61-b044-08d297298b4a
+  world-name: world
+  x: -701.1698028805315
+  y: 107.8352945350783
+  z: 5962.373511976561
+  yaw: -56.2227783203125
+  pitch: 50.578956604003906

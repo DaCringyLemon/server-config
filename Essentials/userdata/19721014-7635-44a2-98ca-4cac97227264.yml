@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.211.49.229
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1638102744388
+  login: 1638101428833
+money: '0'
+last-account-name: EssMaster123
+logoutlocation:
+  world: c5c795b7-c0e2-4e61-b044-08d297298b4a
+  world-name: world
+  x: 196.61529061228285
+  y: 89.0
+  z: 611.4435452623019
+  yaw: -168.41455078125
+  pitch: 20.699739456176758

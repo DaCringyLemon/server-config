@@ -1,0 +1,71 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.159.246.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1639419396337
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1639509646471
+  login: 1639509416950
+money: '0'
+last-account-name: Gigit21
+lastlocation:
+  world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+  world-name: world
+  x: 4627.56430229049
+  y: 83.7531999805212
+  z: -3357.973728254706
+  yaw: 130.88018798828125
+  pitch: 14.24998664855957
+homes:
+  nation:
+    world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+    world-name: world
+    x: -562.3000000119209
+    y: 77.0
+    z: -311.7826353544737
+    yaw: -97.4921875
+    pitch: 29.270116806030273
+  home:
+    world: 821f5adf-4a10-4722-8ed5-3b3b6136ccfd
+    world-name: world_nether
+    x: 246.69999998807907
+    y: 67.0
+    z: -221.30000001192093
+    yaw: 126.14543151855469
+    pitch: 17.40005874633789
+  plan:
+    world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+    world-name: world
+    x: 4628.442746117718
+    y: 81.0
+    z: -3344.8546024657244
+    yaw: -153.9696044921875
+    pitch: 32.69999313354492
+  b:
+    world: 821f5adf-4a10-4722-8ed5-3b3b6136ccfd
+    world-name: world_nether
+    x: 301.69999998807907
+    y: 77.0
+    z: -240.30000001192093
+    yaw: 140.09344482421875
+    pitch: 15.45006275177002
+logoutlocation:
+  world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+  world-name: world
+  x: 4555.699999988079
+  y: 64.0
+  z: -3316.37640511918
+  yaw: -161.87579345703125
+  pitch: 15.749802589416504

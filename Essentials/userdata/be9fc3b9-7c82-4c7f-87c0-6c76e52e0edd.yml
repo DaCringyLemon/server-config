@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1639591784920
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1639675911317
+  login: 1639675880447
+  kits:
+    dailyfood: 1639588223605
+money: '0'
+last-account-name: DaCringyLemon
+logoutlocation:
+  world: 71289602-a8fb-45a6-aded-82e65e61874f
+  world-name: world
+  x: -100.63631018369696
+  y: 68.0
+  z: -256.16426616615973
+  yaw: 3.0171618461608887
+  pitch: 2.836116075515747
+lastlocation:
+  world: f9435709-ac6e-40ff-b76a-5b2fcd81cbf9
+  world-name: world_nether
+  x: -203.6865414132368
+  y: 54.0
+  z: -403.9904700382902
+  yaw: 79.24514770507812
+  pitch: 44.98421096801758
+homes:
+  fortress:
+    world: 932beb4a-e773-418d-89e5-700a0b7f14f1
+    world-name: world_nether
+    x: -120.69952719229515
+    y: 57.0
+    z: 17.30000001192093
+    yaw: -3.551901340484619
+    pitch: 8.199995040893555

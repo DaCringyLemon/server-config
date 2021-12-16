@@ -1,0 +1,5 @@
+kits:
+  dailyfood:
+    delay: 86400
+    items:
+    - golden_carrot 64 name:Daily_Food_for_Poor_People

@@ -1,0 +1,129 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.22.228.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1639586551721
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1639591844550
+  login: 1639591231077
+  kits:
+    dailyfood: 1639588387609
+money: '0'
+last-account-name: SouthernFir
+lastlocation:
+  world: f9435709-ac6e-40ff-b76a-5b2fcd81cbf9
+  world-name: world_nether
+  x: -196.68847197512986
+  y: 39.0
+  z: -421.01772550518245
+  yaw: -9.360918998718262
+  pitch: 37.446292877197266
+logoutlocation:
+  world: f9435709-ac6e-40ff-b76a-5b2fcd81cbf9
+  world-name: world_nether
+  x: -219.06057747414212
+  y: 33.0
+  z: -424.01017714138493
+  yaw: 5.86297607421875
+  pitch: 25.68193817138672
+homes:
+  home:
+    world: e65be054-9473-4ed7-9d0a-9f36e190fabe
+    world-name: world
+    x: -330.54767912757495
+    y: 71.0625
+    z: -669.4553971913855
+    yaw: -4.813626289367676
+    pitch: 9.648395538330078
+  base:
+    world: e65be054-9473-4ed7-9d0a-9f36e190fabe
+    world-name: world
+    x: -327.9014255997769
+    y: 71.0
+    z: -667.6612511145777
+    yaw: -141.041259765625
+    pitch: 19.664499282836914
+  village:
+    world: e65be054-9473-4ed7-9d0a-9f36e190fabe
+    world-name: world
+    x: 5135.4307723764405
+    y: 72.0
+    z: -1700.278595244943
+    yaw: -168.07858276367188
+    pitch: 21.890302658081055
+  stronghold:
+    world: e65be054-9473-4ed7-9d0a-9f36e190fabe
+    world-name: world
+    x: 64.98601932493273
+    y: 28.0
+    z: -2259.3313542186797
+    yaw: 112.19882202148438
+    pitch: 82.26081848144531
+  theforge:
+    world: e65be054-9473-4ed7-9d0a-9f36e190fabe
+    world-name: world
+    x: 4561.2969272033515
+    y: 70.0
+    z: -3355.1423086776736
+    yaw: 151.26263427734375
+    pitch: 7.548366069793701
+  fortress:
+    world: f9435709-ac6e-40ff-b76a-5b2fcd81cbf9
+    world-name: world_nether
+    x: -1878.871909705279
+    y: 54.0
+    z: -321.62574226451903
+    yaw: -54.554107666015625
+    pitch: 31.53529930114746
+  pigmanfarm:
+    world: 821f5adf-4a10-4722-8ed5-3b3b6136ccfd
+    world-name: world_nether
+    x: 1010.5124999880791
+    y: 222.0
+    z: -445.4616984044173
+    yaw: -99.80923461914062
+    pitch: 44.21620559692383
+  duper:
+    world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+    world-name: world
+    x: 2316.3665075198346
+    y: 37.0
+    z: -4269.300000011921
+    yaw: 27.97960090637207
+    pitch: 37.91754150390625
+  roof:
+    world: 821f5adf-4a10-4722-8ed5-3b3b6136ccfd
+    world-name: world_nether
+    x: 567.8420370564177
+    y: 128.0
+    z: -416.56095683414276
+    yaw: -82.44391632080078
+    pitch: -35.69945526123047
+  shulker:
+    world: 821f5adf-4a10-4722-8ed5-3b3b6136ccfd
+    world-name: world_nether
+    x: 574.2446209887881
+    y: 140.5
+    z: -416.06188240963786
+    yaw: 67.3719482421875
+    pitch: 90.0
+  croopurfurm:
+    world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+    world-name: world
+    x: 4425.573158583008
+    y: 184.0
+    z: -3336.1636899335867
+    yaw: -97.0
+    pitch: 43.48365783691406

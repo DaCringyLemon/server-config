@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.205.242.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635341754886
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635342020749
+  login: 1635341510400
+money: '0'
+last-account-name: axzrel
+logoutlocation:
+  world: 1e450996-cccf-4ac4-8985-b0a994c55002
+  world-name: world
+  x: 150.84505830468433
+  y: 64.0
+  z: -48.32043859183979
+  yaw: -99.93301391601562
+  pitch: 43.375179290771484
+lastlocation:
+  world: 1e450996-cccf-4ac4-8985-b0a994c55002
+  world-name: world
+  x: 193.5012776443841
+  y: 63.0
+  z: 143.1908559975626
+  yaw: 78.11550903320312
+  pitch: 43.51799011230469

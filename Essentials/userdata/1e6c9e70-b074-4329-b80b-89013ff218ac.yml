@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.102.211.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636576351138
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1637871589850
+  login: 1637871552895
+money: '0'
+last-account-name: xxviper5xxYT
+logoutlocation:
+  world: c5c795b7-c0e2-4e61-b044-08d297298b4a
+  world-name: world
+  x: 767.214080877977
+  y: 65.0
+  z: 692.073413881629
+  yaw: -7.669189453125
+  pitch: 40.096839904785156
+lastlocation:
+  world: be83f923-bc81-4510-a2a5-fabe901bdc33
+  world-name: world
+  x: -211.14754797173057
+  y: 81.0
+  z: 44.30000001192093
+  yaw: -125.87237548828125
+  pitch: 18.234268188476562
+homes:
+  home:
+    world: c5c795b7-c0e2-4e61-b044-08d297298b4a
+    world-name: world
+    x: 149.58848773532938
+    y: 63.0
+    z: -35.42386020292099
+    yaw: -1.324615478515625
+    pitch: 41.95103454589844
+mail:
+- legacy: false
+  read: false
+  message: WELCOME BACK TO THE SERVER YOU HAVE NOT BEEN ONLINE FOR AGES!!!!!
+  sender-name: DaCringyLemon
+  sender-uuid: be9fc3b9-7c82-4c7f-87c0-6c76e52e0edd
+  timestamp: 1638090846756
+  expire: 0

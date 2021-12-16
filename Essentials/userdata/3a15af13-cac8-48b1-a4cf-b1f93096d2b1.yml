@@ -1,0 +1,95 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.8.109.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1639157655808
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1639161379774
+  login: 1639156745694
+money: '0'
+last-account-name: Turkey_Kebab
+lastlocation:
+  world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+  world-name: world
+  x: -368.5
+  y: 78.0
+  z: -404.7770342122617
+  yaw: -84.89984893798828
+  pitch: -90.0
+logoutlocation:
+  world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+  world-name: world
+  x: 125.69999998807907
+  y: 70.22149363870948
+  z: -488.30000001192093
+  yaw: -85.7587890625
+  pitch: 16.199899673461914
+homes:
+  house:
+    world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+    world-name: world
+    x: -331.2442182616183
+    y: 73.0
+    z: -708.2438588677239
+    yaw: -15.59716796875
+    pitch: 26.99953269958496
+  stronghold:
+    world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+    world-name: world
+    x: 66.69999998807907
+    y: 25.0
+    z: -2263.6992383173483
+    yaw: 140.90122985839844
+    pitch: 40.6943359375
+  village:
+    world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+    world-name: world
+    x: -362.57232409781255
+    y: 80.0
+    z: -387.4853494875981
+    yaw: -71.40902709960938
+    pitch: 59.700050354003906
+  spawner:
+    world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+    world-name: world
+    x: -330.02501652573807
+    y: 86.0
+    z: -653.4497598808928
+    yaw: -149.85006713867188
+    pitch: 22.500041961669922
+  nether:
+    world: 821f5adf-4a10-4722-8ed5-3b3b6136ccfd
+    world-name: world_nether
+    x: 245.57174287333615
+    y: 68.0
+    z: -221.30000001192093
+    yaw: 171.29559326171875
+    pitch: 38.84998321533203
+  spspsps:
+    world: 821f5adf-4a10-4722-8ed5-3b3b6136ccfd
+    world-name: world_nether
+    x: 139.30000001192093
+    y: 97.0
+    z: -186.30000001192093
+    yaw: 66.14596557617188
+    pitch: 19.05001449584961
+  dsfihsgoshg:
+    world: 821f5adf-4a10-4722-8ed5-3b3b6136ccfd
+    world-name: world_nether
+    x: 32.30000001192093
+    y: 55.0
+    z: -272.69999998807907
+    yaw: -157.58795166015625
+    pitch: 65.69998168945312

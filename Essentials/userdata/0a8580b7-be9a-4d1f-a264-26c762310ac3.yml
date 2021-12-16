@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.100.215.254
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1638110712822
+  login: 1638109231013
+money: '0'
+last-account-name: Harle897x
+logoutlocation:
+  world: edf816a0-0333-4171-ab91-6e4221662d0c
+  world-name: world_the_end
+  x: -12.300000011920929
+  y: 1.0
+  z: 401.30000001192093
+  yaw: 39.44769287109375
+  pitch: 22.049766540527344

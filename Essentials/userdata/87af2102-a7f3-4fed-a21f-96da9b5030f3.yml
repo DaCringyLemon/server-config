@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.73.2.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1639314744017
+  login: 1639314739367
+money: '0'
+last-account-name: 420grandmaste
+lastlocation:
+  world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+  world-name: world
+  x: -781.7163449593795
+  y: 72.16610926093821
+  z: -232.95706315380656
+  yaw: 111.18217468261719
+  pitch: 42.72391891479492
+logoutlocation:
+  world: 92931a46-4b95-483f-b956-dd58f4ab4ea0
+  world-name: world
+  x: -532.5195107524463
+  y: 61.0
+  z: -116.12641681897553
+  yaw: -17.988868713378906
+  pitch: 7.495439529418945
+nickname: slav

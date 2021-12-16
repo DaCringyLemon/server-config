@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.220.108.255
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1638114123579
+  login: 1638112734409
+money: '0'
+last-account-name: SophieW1806
+logoutlocation:
+  world: c5c795b7-c0e2-4e61-b044-08d297298b4a
+  world-name: world
+  x: 287.23750001192093
+  y: 61.0
+  z: 65.96136230096845
+  yaw: 36.294189453125
+  pitch: 28.14649772644043

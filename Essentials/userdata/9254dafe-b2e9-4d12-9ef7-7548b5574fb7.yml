@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.235.151.237
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636575527438
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1638120918578
+  login: 1638120885925
+money: '0'
+last-account-name: LittlePotato472
+logoutlocation:
+  world: c5c795b7-c0e2-4e61-b044-08d297298b4a
+  world-name: world
+  x: -681.3266139605637
+  y: 63.875
+  z: 5878.92521159052
+  yaw: -176.56863403320312
+  pitch: 36.00004196166992
+lastlocation:
+  world: c5c795b7-c0e2-4e61-b044-08d297298b4a
+  world-name: world
+  x: -675.1838057580205
+  y: 33.25220334025373
+  z: 5969.616272132939
+  yaw: 104.48741912841797
+  pitch: -32.03366470336914

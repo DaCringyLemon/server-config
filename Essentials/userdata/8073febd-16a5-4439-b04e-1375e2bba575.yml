@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.35.60.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1638100672592
+  login: 1638096762914
+money: '0'
+last-account-name: HotshotMink0351
+logoutlocation:
+  world: e1efc8f7-5541-48b3-b9e8-ed0f72f3b81e
+  world-name: world_nether
+  x: 84.80793298547455
+  y: 91.0
+  z: 74.65258145240863
+  yaw: -120.78398132324219
+  pitch: 10.171871185302734
+lastlocation:
+  world: edf816a0-0333-4171-ab91-6e4221662d0c
+  world-name: world_the_end
+  x: -58.51406074637835
+  y: 24.176759275064235
+  z: -21.35096050533411
+  yaw: -135.76173400878906
+  pitch: 90.0
